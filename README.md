@@ -1,1 +1,2 @@
-<img align="right" width=800 scr=https://cdn.dribbble.com/userupload/24319675/file/original-7a32931a8e90fa39d979b02742f1fe04.gif />
+<img width="1041" height="540" alt="image" src="https://github.com/user-attachments/assets/ec2cd5bb-e3f4-4ebd-a017-177ec085cfa3" />
+ 
